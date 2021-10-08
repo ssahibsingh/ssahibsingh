@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/singh__sahib" target="blank"><img src="https://img.shields.io/twitter/follow/singh__sahib?logo=twitter&style=for-the-badge" alt="singh__sahib" /></a> </p>
 
+- 🌱 I’m currently learning **C++, DSA, MySQL, CSS, JS**
+
+- 📫 How to reach me **snone181@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/singh__sahib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh__sahib" height="30" width="40" /></a>
