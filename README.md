@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahib Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/singh__sahib" target="blank"><img src="https://img.shields.io/twitter/follow/singh__sahib?logo=twitter&style=for-the-badge" alt="singh__sahib" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ssahibsingh_" target="blank"><img src="https://img.shields.io/twitter/follow/ssahibsingh_?logo=twitter&style=for-the-badge" alt="ssahibsingh_" /></a> </p>
 
 - 🌱 I’m currently learning **C++, DSA, MySQL, CSS, JS**
 
