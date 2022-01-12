@@ -5,7 +5,7 @@
     <a href="https://twitter.com/ssahibsingh_" target="blank"><img src="https://img.shields.io/twitter/follow/ssahibsingh_?logo=twitter&style=for-the-badge" alt="ssahibsingh_" /></a>
 </p>
 
-- 🌱 I’m currently learning **C++, DSA, CSS, JS** - 📫 How to reach me **snone181@gmail.com**
+- 🌱 I’m currently learning **DSA, JS** - 📫 How to reach me **snone181@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
