@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sahib Singh</h1>
+<h1 align="center">Hi, I'm Sahib Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p>
 
+<h2>About Me🧑🏼‍💻</h2>
 
+- 🎓 I am currently pursuing my **Bachelor's in Information Technology**.
 - 🌱 I’m currently learning **DSA** 
 - 📫 How to reach me **snone181@gmail.com**
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=dracula&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +34,15 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&show_icons=true&theme=dark&hide_border=true&locale=en" alt="ssahibsingh" /></p>
+## Stats📈
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=dark" alt="ssahibsingh" /></p>
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssahibsingh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ssahibsingh" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ssahibsingh" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=dracula&hide_border=true" alt="ssahibsingh" />
+</p>
+  
+## Recent Activity⚡
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
