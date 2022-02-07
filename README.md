@@ -45,4 +45,9 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#39](https://github.com/ggeeks/ggeeks.github.io/pull/39) in [ggeeks/ggeeks.github.io](https://github.com/ggeeks/ggeeks.github.io)
+2. 💪 Opened PR [#39](https://github.com/ggeeks/ggeeks.github.io/pull/39) in [ggeeks/ggeeks.github.io](https://github.com/ggeeks/ggeeks.github.io)
+3. 🎉 Merged PR [#38](https://github.com/ggeeks/ggeeks.github.io/pull/38) in [ggeeks/ggeeks.github.io](https://github.com/ggeeks/ggeeks.github.io)
+4. 💪 Opened PR [#38](https://github.com/ggeeks/ggeeks.github.io/pull/38) in [ggeeks/ggeeks.github.io](https://github.com/ggeeks/ggeeks.github.io)
+5. 🎉 Merged PR [#37](https://github.com/ggeeks/ggeeks.github.io/pull/37) in [ggeeks/ggeeks.github.io](https://github.com/ggeeks/ggeeks.github.io)
 <!--END_SECTION:activity-->
