@@ -3,12 +3,11 @@
 
 <h2>About Me🧑🏼‍💻</h2>
 
-- 🎓 I am currently pursuing my **Bachelor's in Information Technology**.
-- 🌱 I’m currently learning **DSA** 
-- 📫 How to reach me **snone181@gmail.com**
-
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=dracula&hide_border=true"></p>
-![GitHub Activity Graph]()
+<ul type="none">
+    <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
+    <li>🌱 I’m currently learning <strong>DSA</strong> </li>
+    <li>📫 Reach me  at <strong>snone181@gmail.com</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +37,7 @@
 ## Stats📈
 
 <p align="center">
+<img width="88%" src="https://ss-activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="ssahibsingh" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="ssahibsingh" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=react&hide_border=true" alt="ssahibsingh" />
