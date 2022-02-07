@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning **DSA** 
 - 📫 How to reach me **snone181@gmail.com**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=dracula&hide_border=true)
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=dracula&hide_border=true"></p>
+![GitHub Activity Graph]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,14 +38,7 @@
 ## Stats📈
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssahibsingh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ssahibsingh" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ssahibsingh" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=dracula&hide_border=true" alt="ssahibsingh" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="ssahibsingh" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="ssahibsingh" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=react&hide_border=true" alt="ssahibsingh" />
 </p>
-  
-<!-- ## Recent Activity⚡ -->
-<!--
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
--->
