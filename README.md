@@ -37,7 +37,7 @@
 ## Stats📈
 
 <p align="center">
-<img width="88%" src="https://ss-activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true">
+<img width="88%" src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="ssahibsingh" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="ssahibsingh" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=react&hide_border=true" alt="ssahibsingh" />
