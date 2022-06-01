@@ -2,7 +2,7 @@
 <meta name="description" content="Hi, I'm Sahib Singh. 🎓 I am currently pursuing my Bachelor's in Information Technology 🌱 I’m currently learning DSA 📫 Reach me at snone181@gmail.com">
 <meta name="keyword" content="Sahib Singh, Sahib, Singh, Sahib Singh Github, Github, NITJ, NIT Jalandhar Github">
 
-<h1 align="center">Hi, I'm Sahib Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hi, I'm Sahib Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height = "30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p>
 
 <h2>About Me🧑🏼‍💻</h2>
