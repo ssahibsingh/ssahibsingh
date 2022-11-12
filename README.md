@@ -9,7 +9,6 @@
 
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
-    <li>🌱 I’m currently learning <strong>DSA</strong> </li>
     <li>📫 Reach me  at <strong>snone181@gmail.com</strong></li>
 </ul>
 
