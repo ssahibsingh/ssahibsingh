@@ -48,7 +48,7 @@
 
 <p align="center">
 <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="ssahibsingh" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="ssahibsingh" />
+<img width="40%" src="https://github-readme-stats-ssahibsingh.vercel.app/api/top-langs/?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="ssahibsingh" /> 
+<img width="48%" src="https://github-readme-stats-ssahibsingh.vercel.app/api?username=ssahibsingh&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="ssahibsingh" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssahibsingh&theme=react&hide_border=true&background=0D1117" alt="ssahibsingh" />
 </p>
