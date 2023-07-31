@@ -11,10 +11,10 @@
 
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
-    <li>📫 Reach me  at <strong>snone181@gmail.com</strong></li>
-    <li>🔭 I’m currently working on <a href="https://soorme.com" >Soorme</a></li>
-    <li>👨‍💻 All of my projects are available <a href="https://ssahibsingh.github.io">here</a></li>
-    <li>📄 Know about my experiences <a href="https://ssahibsingh.github.io/resume">here</a></li>
+    <li>📫 Reach me  at <strong>sahibsingh.work@gmail.com</strong></li>
+    <li>🔭 I’m currently working on <a href="https://soorme.com">Soorme</a></li>
+    <li>👨‍💻 All of my projects are available <a href="https://sahibsingh.dev">here</a></li>
+    <li>📄 Know about my experiences <a href="https://sahibsingh.dev/resume">here</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
