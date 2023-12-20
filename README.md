@@ -60,6 +60,10 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://sahibsingh.hashnode.dev//securing-nodejs-applications" title="Securing Node.js Applications"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703080538254/700989c0-136a-4a18-b0bc-ff2f0e0a3540.png" alt="Securing Node.js Applications" width="250px" align="left" /></a>
+<a href="https://sahibsingh.hashnode.dev//securing-nodejs-applications" title="Securing Node.js Applications"><strong>Securing Node.js Applications</strong></a>
+<br/> As developers, ensuring the security of our applications is paramount. In the world of backend development with Node.js, several key practices and tools can significantly enhance the security of your application. Let's dive into a comprehensive guide... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Stats📈
