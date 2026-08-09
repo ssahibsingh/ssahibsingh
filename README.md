@@ -25,7 +25,7 @@
 ![](https://gitroll.io/api/badges/profiles/v1/uEqTKA9bLRYezzDmeFAgj5Z16c3Q2)
 -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssahibsingh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssahibsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssahibsingh)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -79,14 +79,15 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </p> -->
 
+<!--
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+ HASHNODE_BLOG:START 
 <p align="left">
 <a href="https://sahibsingh.hashnode.dev/securing-nodejs-applications" title="Securing Node.js Applications"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703080538254/700989c0-136a-4a18-b0bc-ff2f0e0a3540.png" alt="Securing Node.js Applications" width="250px" align="left" /></a>
 <a href="https://sahibsingh.hashnode.dev/securing-nodejs-applications" title="Securing Node.js Applications"><strong>Securing Node.js Applications</strong></a>
 <div><strong>20 Dec 2023</strong></div>
 <br/> As developers, ensuring the security of our applications is paramount. In the world of backend development with Node.js, several key practices and tools can significantly enhance the security of your application. Let's dive into a comprehensive guide... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+ HASHNODE_BLOG:END -->
 
 ## Stats📈
 
